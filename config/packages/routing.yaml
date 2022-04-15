@@ -10,3 +10,8 @@ when@prod:
     framework:
         router:
             strict_requirements: null
+
+# Mailjet webhook route
+gruseltour_mailjet_webhook:
+    resource: "@MailjetBundle/Resources/config/routing.yml"
+    prefix:   /mailjet

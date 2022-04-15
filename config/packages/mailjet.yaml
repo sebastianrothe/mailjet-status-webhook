@@ -1,4 +1,5 @@
 mailjet:
     api_key:    "%env(MAILJET_APIKEY_PUBLIC)%"
     secret_key: "%env(MAILJET_APIKEY_PRIVATE)%"
+    event_endpoint_token: "%env(MAILJET_ENDPOINT_TOKEN)%"
 
