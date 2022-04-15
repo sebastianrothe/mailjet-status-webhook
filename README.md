@@ -1,0 +1,7 @@
+#
+
+## Development
+
+```
+symfony check:security
+```
