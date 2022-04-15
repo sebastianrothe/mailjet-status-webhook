@@ -10,3 +10,6 @@
 ###< symfony/framework-bundle ###
 
 composer.phar
+
+# node
+/node_modules/
