@@ -1,0 +1,16 @@
+{
+    "name": "gruseltourleipzig/mailjet-status-webhook",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gruseltourleipzig\\MailjetStatusWebhook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebastian Rothe",
+            "email": "basti@lifeinprogress.de"
+        }
+    ],
+    "require": {}
+}
